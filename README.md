@@ -52,7 +52,7 @@ $$
 Functions
 $$
 
-`/ptime <Value>`							修改客户端世界
+`/ptime <Value>`							修改客户端时间
 
 `/afk`												进入挂机模式(无敌状态)，移动、攻击或输入/afk自动退出afk
 $$
@@ -61,7 +61,4 @@ $$
 `/coreprotect inspect` | `/co i`	开启方块数据查询，左击或右击查看方块日志
 
 [^方块日志]:	日志中包含了方块的历史数据  有玩家名、时间、操作等信息
-[^co]:  View more, please move to  https://dev.bukkit.org/projects/coreprotect
-
-
-
+View more about co, please move to  https://dev.bukkit.org/projects/coreprotect
