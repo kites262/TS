@@ -1,6 +1,6 @@
 
 
-# Wiki · 帮助文档
+# Wiki · 帮助文档 · command&cc
 
 ## for Minecraft 1.16.1 kites' server
 #### version 1.16.1 paper
