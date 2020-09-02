@@ -3,7 +3,7 @@
 # Wiki · 帮助文档
 
 ## for Minecraft 1.16.1 kites' server
-#### versin 1.16.1 paper
+#### version 1.16.1 paper
 #### kites262.ml:25625
 
 ```
