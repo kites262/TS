@@ -1,6 +1,6 @@
 
 
-# Wiki · 帮助文档 · command&cc
+# Wiki · 帮助文档 · command
 
 ## for Minecraft 1.16.1 kites' server
 #### version 1.16.1 paper
@@ -64,15 +64,3 @@ A|B A等同于B
 [^方块日志]:	日志中包含了方块的历史数据  有玩家名、时间、操作等信息
 
 [^co]:  View more, please move to  https://dev.bukkit.org/projects/coreprotect
-
-## CaulCrafting
-
-`铁锭*1 + 金锭*1`	***80%***	`钻石*1`
-
-`腐肉*1`	***100%***	`皮革*1`
-
-`不死图腾*1 + 钻石头盔*1 + 钻石胸甲*1 + 钻石护腿*1 + 钻石靴子*1`	***50%***	`物品保持令*1`
-
-[^物品保持令]: 放置于背包内，死亡时消耗1个该物品并保留背包物品.
-
-[^物品保持令]: 该物品维护初期玩家的人身，这将在未来被移除.
