@@ -2,10 +2,6 @@
 
 # wiki · 帮助文档 · command
 
-## for Minecraft 1.16.1 kites' server
-#### version 1.16.1 paper
-#### kites262.ml:25625
-
 ```
 < > 尖括号为必须参数 *<player> 指代玩家
 [ ] 方括号为可选参数
